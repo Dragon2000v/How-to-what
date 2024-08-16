@@ -1,0 +1,13 @@
+{
+  "name": "How-to-what",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Dragon2000v/How-to-what.git",
+  "author": "Vitaly Shmatko <shmatko064@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.4",
+    "dotenv": "^16.4.5",
+    "telegraf": "^4.16.3"
+  }
+}
